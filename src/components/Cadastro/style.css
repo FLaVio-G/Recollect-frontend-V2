@@ -1,0 +1,44 @@
+.novo-cadastro-card{
+    margin-top: 2%;
+}
+
+.titulo-novo-cadastro{
+    margin-bottom: -5%;
+}
+
+
+.coluna-nome-da-empresa{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    
+}
+
+.coluna-site-da-empresa{
+    margin-right: 5%;
+}
+
+.coluna-site-da-empresa .coluna-site-tel-endereco{
+    width: 100%;
+}
+
+.coluna-nome-da-empresa input,
+.coluna-site-da-empresa input,
+.coluna-cep-cidade-estado input,
+.coluna-senha-repetir-senha input{
+    border: 1px solid white;
+    color: black;
+}
+
+.coluna-nome-da-empresa input::placeholder,
+.coluna-site-da-empresa input::placeholder,
+.coluna-cep-cidade-estado input::placeholder,
+.coluna-senha-repetir-senha input::placeholder{
+    color: white;
+}
+
+.stack-c .botao-cadastrar{
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+

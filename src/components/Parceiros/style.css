@@ -1,0 +1,16 @@
+.parceiros-card{
+    margin-top: 2%;
+}
+.texto-parceiros-card{
+    text-align: justify;
+    line-height: 40px;
+    margin-bottom: 30px;    
+}
+
+.texto-descritivo-empresa{
+    text-align: justify;
+}
+
+.linkroute{
+    text-decoration: underline;
+}
