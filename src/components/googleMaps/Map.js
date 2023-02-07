@@ -68,8 +68,8 @@ const Map = (props) => {
   
 
   const containerStyle = {
-    width: "90vw",
-    height: "90vh",
+    width: "1280px",
+    height: "650px",
   };
   const center = {
     lat: -2.431181066739566, 
